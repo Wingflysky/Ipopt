@@ -1,5 +1,6 @@
 var NAVTREEINDEX28 =
 {
+"structma97__info__s.html#a36b696fdad1ca7d805f759a98587bdcc":[1,0,13,2],
 "structma97__info__s.html#a38c81f048be470b995d559f80b76b431":[1,0,13,7],
 "structma97__info__s.html#a47bc7bccb423fcf27f3c6a8b3b2cc4df":[1,0,13,1],
 "structma97__info__s.html#a4b504e6c81e0d83f1288b95ab50d3a6e":[1,0,13,14],
